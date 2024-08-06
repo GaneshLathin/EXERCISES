@@ -11,7 +11,7 @@ function Msg()
   console.log(myarray);
   alert("Check the console output!");
 }
-const Ajay1=()=>{
+const App3=()=>{
   return(
     <div>
 
@@ -19,4 +19,4 @@ const Ajay1=()=>{
     </div>
   )
 }
-export default Ajay1;
+export default App3;
